@@ -12,34 +12,34 @@
 
 #### Добавим изображения, которые должны выводиться на макетах:
 
-![alt text]()
+![alt text](https://github.com/IoIdude/FlutterFirstPr/blob/4426408a8fc12611ba47af2da99b9cd3f4fca13a/pref_for_reame/2.png)
 
 #### В файл зависимостей (pubspec.yaml) добавим все наших ресурсы:
 
-![alt text]()
+![alt text](https://github.com/IoIdude/FlutterFirstPr/blob/4426408a8fc12611ba47af2da99b9cd3f4fca13a/pref_for_reame/3.png)
 
 #### Было создано 2 экрана и один основной файл, который запускает один из экранов в зависимости от настройки:
 
-![alt text]()
+![alt text](https://github.com/IoIdude/FlutterFirstPr/blob/4426408a8fc12611ba47af2da99b9cd3f4fca13a/pref_for_reame/4.png)
 
 #### Код экрана welcome:
 
-![alt text]()
+![alt text](https://github.com/IoIdude/FlutterFirstPr/blob/4426408a8fc12611ba47af2da99b9cd3f4fca13a/pref_for_reame/5.png)
 
 #### Код экрана relax:
 
-![alt text]()
+![alt text](https://github.com/IoIdude/FlutterFirstPr/blob/4426408a8fc12611ba47af2da99b9cd3f4fca13a/pref_for_reame/6.png)
 
 #### Main файл, служащий для запуска одного из экранов:
 
-![alt text]()
+![alt text](https://github.com/IoIdude/FlutterFirstPr/blob/4426408a8fc12611ba47af2da99b9cd3f4fca13a/pref_for_reame/7.png)
 
 #### Результат верстки первого экрана:
 
-![alt text]()
+![alt text](https://github.com/IoIdude/FlutterFirstPr/blob/4426408a8fc12611ba47af2da99b9cd3f4fca13a/pref_for_reame/8.jpeg)
 
 #### Результат верстки второго экрана:
 
-![alt text]()
+![alt text](https://github.com/IoIdude/FlutterFirstPr/blob/4426408a8fc12611ba47af2da99b9cd3f4fca13a/pref_for_reame/9.jpeg)
 
 ### Вывод: в ходе практической работы были реализованы 2 экрана в виде приложения на телефоне
