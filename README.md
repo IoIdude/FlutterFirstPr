@@ -8,7 +8,7 @@
 
 #### Добавим необходимые шрифты для верстки наших макетов:
 
-![alt text]()
+![alt text](https://github.com/IoIdude/FlutterFirstPr/blob/508a4a71caad0c93b87a5b8c67c05ea949b27d2b/pref_for_reame/1.png)
 
 #### Добавим изображения, которые должны выводиться на макетах:
 
