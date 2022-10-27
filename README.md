@@ -36,10 +36,10 @@
 
 #### Результат верстки первого экрана:
 
-![alt text](https://github.com/IoIdude/FlutterFirstPr/blob/4426408a8fc12611ba47af2da99b9cd3f4fca13a/pref_for_reame/8.jpeg)
+![alt text](https://github.com/IoIdude/FlutterFirstPr/blob/4426408a8fc12611ba47af2da99b9cd3f4fca13a/pref_for_reame/9.jpeg)
 
 #### Результат верстки второго экрана:
 
-![alt text](https://github.com/IoIdude/FlutterFirstPr/blob/4426408a8fc12611ba47af2da99b9cd3f4fca13a/pref_for_reame/9.jpeg)
+![alt text](https://github.com/IoIdude/FlutterFirstPr/blob/4426408a8fc12611ba47af2da99b9cd3f4fca13a/pref_for_reame/8.jpeg)
 
 ### Вывод: в ходе практической работы были реализованы 2 экрана в виде приложения на телефоне
